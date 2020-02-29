@@ -100,7 +100,7 @@ header{
 }
 .nav-list{
     list-style: none;
-    widows: 100%;
+    widows: 90%;
     height:100%;
     display: flex;
     justify-content: center;
